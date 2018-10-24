@@ -4,6 +4,7 @@
 ## Course Goals, Training Curriculum, Scope
 
 [video src="https://youtu.be/gfs2fs2"]
+[/slide]
 
 [slide]
 # Basics of Programming - Overview
@@ -32,6 +33,7 @@ The content is designed for 4-5 grade at school.
 
 [details]
 The course will guide you step by step in the process of learning how to write code: install IDE, compile and run programs, write programming logic, enter data from th econsole (numbers, strings, others), printing data on the console, formatted output, ...
+[/details]
 
 [slide]
 # Curriculum
