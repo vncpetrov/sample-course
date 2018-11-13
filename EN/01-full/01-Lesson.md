@@ -243,7 +243,7 @@
 [slide]
     ### Тестване на програмата в Judge системата
 
-    [task]
+    [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput]
         [code-editor language=csharp]
             Console.WriteLine("Hello C#");
         [/code-editor]
@@ -342,12 +342,12 @@
 
     <p align="center"> (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3 </p>
 
-    [task]
+    [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput]
         [code-editor language=csharp]
             Console.WriteLine(...);
         [/code-editor]
 
-        [task-description]
+        [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput-description]
             Забележка: **не е разрешено да се пресметне стойността предварително** (например с Windows Calculator).
         [/task-description]
     [/task]
@@ -377,11 +377,11 @@
 
     Да се напише C# конзолна програма, която **отпечатва числата от 1 до 20** на отделни редове на конзолата.
 
-    [task]
+    [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput]
         [code-editor language=csharp]
         [/code-editor]
 
-        [task-description]
+        [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput-description]
             Опитайте да въведете грешно число, например "hello". Ще получите съобщение за грешка по време на изпълнение (exception). Това е нормално. По-късно ще разберем как можем да прихващаме такива грешки и да караме потребителят да въвежда число наново.
         [/task-description]
     [/task]
@@ -429,14 +429,14 @@
     **********
     ```
 
-    [task]
+    [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput]
         [code-editor language=csharp]
             Console.WriteLine("*");
             Console.WriteLine("**");
             …
         [/code-editor]
 
-        [task-description]
+        [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput-description]
             Опитайте да **подобрите решението**, така че да няма много повтарящи се команди. Може ли това да стане с **`for`** цикъл. Успяхте ли да намерите умно решение (например с цикъл) на предната задача? При тази задача може да се ползва нещо подобно, но малко по-сложно (два цикъла един в друг). Ако не успеете, няма проблем, ще учим цикли след няколко глави и ще си спомните за тази задача тогава.
         [/task-description]
     [/task]
@@ -463,7 +463,7 @@
 
     Да се напише C# програма, която **прочита** от конзолата **две числа a и b**, **пресмята** и **отпечатва** лицето на правоъгълник със страни **a** и **b**.
 
-    [task]
+    [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput]
         [code-editor language=csharp]
             var a = decimal.Parse(Console.ReadLine());
             var b = decimal.Parse(Console.ReadLine());
@@ -471,7 +471,7 @@
             // TODO: Calculate and print the area
         [/code-editor]
 
-        [task-description]
+        [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput-description]
             Допишете програмата, за да пресмята лицето на правоъгълника и да го отпечата. Използвайте познатата ни вече команда **`Console.WriteLine()`** и й подайте в скобите произведението на числата **a** и **b**. В програмирането умножението се извършва с оператора **`*`**.
         [/task-description]
     [/task]
@@ -512,14 +512,14 @@
 
     Да се напише C# конзолна програма, която **прочита** от конзолата **цяло положително число N** и **отпечатва** на конзолата **квадрат от N звездички**, като в примерите по-долу.
 
-    [task]
+    [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput]
         [code-editor language=csharp]
             var n = int.Parse(Console.ReadLine());
 
             // TODO: Draw square
         [/code-editor]
 
-        [task-description]
+        [code-task title='Print out Hello World' executionStrategy='csharp-dot-net-core-code' requiresInput-description]
              Да се допише програмата, за да отпечатва квадрат, съставен от звездички. Може да се наложи да се използват **`for`** цикли. Потърсете информация в Интернет.
         [/task-description]
     [/task]
