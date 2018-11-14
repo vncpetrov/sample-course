@@ -42,7 +42,7 @@
 
     **Средите за програмиране** са удобни, защото интегрират всичко необходимо за разработката на програмата, без да се напуска средата. Ако не ползваме среда за разработка, ще трябва да пишем кода в текстов редактор, да го компилираме с команда от конзолата, да го изпълняваме с друга команда от конзолата и да пишем още допълнителни команди, когато се налага, и това ще ни губи време. Затова повечето програмисти ползват IDE в ежедневната си работа.
 
-    За програмиране на **езика C#** най-често се ползва средата за разработка **Visual Studio**, която се разработва и разпространява безплатно от Microsoft и може да се изтегли от: [anchor disabled href=https://www.visualstudio.com/downloads/]Visual Studio[/anchor]. Алтернативи на Visual Studio са **Rider** ([anchor href=https://www.jetbrains.com/rider/]Jet Brains[/anchor]) и **MonoDevelop** / **Xamarin Studio** ([anchor href=http://www.monodevelop.com]http://www.monodevelop.com[/anchor]) и **SharpDevelop** ([anchor href=http://www.icsharpcode.net/OpenSource/SD/]http://www.icsharpcode.net/OpenSource/SD/[/anchor]). В настоящата книга ще използваме средата за разработка Visual Studio.
+    За програмиране на **езика C#** най-често се ползва средата за разработка **Visual Studio**, която се разработва и разпространява безплатно от Microsoft и може да се изтегли от: [anchor disabled href=https://www.visualstudio.com/downloads/]Visual Studio[/anchor]. Алтернативи на Visual Studio са **Rider** ([anchor href=https://www.jetbrains.com/rider/]JetBrains[/anchor]) и **MonoDevelop** / **Xamarin Studio** ([anchor href=http://www.monodevelop.com]http://www.monodevelop.com[/anchor]) и **SharpDevelop** ([anchor href=http://www.icsharpcode.net/OpenSource/SD/]http://www.icsharpcode.net/OpenSource/SD/[/anchor]). В настоящата книга ще използваме средата за разработка Visual Studio.
 [/slide]
 
 [slide]
@@ -247,7 +247,7 @@
         [code-editor language=csharp]
             Console.WriteLine("Hello C#");
         [/code-editor]
-    [/task]
+    [/code-task]
 
     Тестването на задачите от тази книга е автоматизирано и се осъществява през Интернет, от сайта на **Judge системата**: [anchor href=https://judge.softuni.bg]https://judge.softuni.bg[/anchor]. Оценяването на задачите се извършва на момента от системата. Всяка задача минава поредица от тестове, като всеки успешно преминат тест дава предвидените за него точки. Тестовете, които се подават на задачите, са скрити.
 
