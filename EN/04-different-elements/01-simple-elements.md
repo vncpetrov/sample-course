@@ -1,28 +1,38 @@
 [slide]
-    # Many slides
+# Many slides
 
-    В тази глава ще разберем **какво е програмирането** в неговата същина. Ще се запознаем с идеята за **програмни езици** и ще разгледаме **средите за разработка на софтуер** (IDE) и как да работим с тях, в частност с **Visual Studio**. Ще напишем и изпълним **първата си програма** на програмния език **C#**, а след това ще се упражним с няколко задачи: ще създадем конзолна програма, графично приложение и уеб приложение. Ще се научим как да проверяваме за коректност решенията на задачите от тази книга в **Judge системата на СофтУни** и накрая ще се запознаем с типичните грешки, които често се допускат при писането на код и как да се предпазим от тях.
+В тази глава ще разберем **какво е програмирането** в неговата същина. Ще се запознаем с идеята за **програмни езици** и ще разгледаме **средите за разработка на софтуер** (IDE) и как да работим с тях, в частност с **Visual Studio**. Ще напишем и изпълним **първата си програма** на програмния език **C#**, а след това ще се упражним с няколко задачи: ще създадем конзолна програма, графично приложение и уеб приложение. Ще се научим как да проверяваме за коректност решенията на задачите от тази книга в **Judge системата на СофтУни** и накрая ще се запознаем с типичните грешки, които често се допускат при писането на код и как да се предпазим от тях.
 
-    - unordered
-    - list
-    - items
+- unordered
+- list
+- items
 
-    1. ordered
-    2. list
-    3. items
+1. ordered
+2. list
+3. items
 
-    This code `console.log(5 + '3');` is inline
+- This list item
+  1. has
+  2. nested
+  3. ordered
+  4. list
+- And this
+  - has
+  - nested
+  - unordered
+  - list
 
-    These are **strong** and __strong__
+This code `console.log(5 + '3');` is inline
 
-    These are _emphasized_ and *emphasized*
+These are **strong** and __strong__
 
-    These are ___emphasized strong___, *__emphasized strong__*, _**emphasized strong**_, ***emphasized strong***, **_emphasized strong_**
+These are _emphasized_ and *emphasized*
 
-    ## Видео
+These are ___emphasized strong___, *__emphasized strong__*, _**emphasized strong**_, ***emphasized strong***, **_emphasized strong_**
 
-    [youtube-video videoId=LgT10WCBw0M /]
+## Видео
 
+[youtube-video videoId=LgT10WCBw0M /]
 [/slide]
 [slide]
   # Different elements
