@@ -33,20 +33,22 @@ These are ___emphasized strong___, *__emphasized strong__*, _**emphasized strong
 ## Видео
 
 [youtube-video videoId=LgT10WCBw0M /]
+
+[/slide]
+
+[slide]
+# Different elements
+
+Some **strong** text with random [anchor href=http://google.com]google[/anchor] link
+
+- List item with **strong** element
+- List item with [anchor]link[/anchor]
 [/slide]
 [slide]
-  # Different elements
+# Options
 
-    Some **strong** text with random [anchor href=http://google.com]google[/anchor] link
+[anchor href=https://www.google.com/search?q=google+markdown&rlz=1C1GCEA_enBG775BG775&oq=google+markdown&aqs=chrome..69i57j0l5.2259j0j7&sourceid=chrome&ie=UTF-8
+alt="This is some search in google]link[/anchor]
 
-    - List item with **strong** element
-    - List item with [anchor]link[/anchor]
-[/slide]
-[slide]
-    # Options
-
-    [anchor href=https://www.google.com/search?q=google+markdown&rlz=1C1GCEA_enBG775BG775&oq=google+markdown&aqs=chrome..69i57j0l5.2259j0j7&sourceid=chrome&ie=UTF-8
-    alt="This is some search in google]link[/anchor]
-
-    [image src=https://www.sideshowtoy.com/wp-content/uploads/2018/08/dc-comics-batman-statue-sideshow-prime1-studio-feature-2005181-2.jpg enabled alt="THis is an image of batman" /]
+[image src=https://www.sideshowtoy.com/wp-content/uploads/2018/08/dc-comics-batman-statue-sideshow-prime1-studio-feature-2005181-2.jpg enabled alt="THis is an image of batman" /]
 [/slide]
