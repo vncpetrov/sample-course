@@ -14,13 +14,29 @@
     This code `console.log(5 + '3');` is inline
 
     These are **strong** and __strong__
-    
+
     These are _emphasized_ and *emphasized*
-    
+
     These are ___emphasized strong___, *__emphasized strong__*, _**emphasized strong**_, ***emphasized strong***, **_emphasized strong_**
 
     ## Видео
 
     [youtube-video videoId=LgT10WCBw0M /]
 
+[/slide]
+[slide]
+  # Глава 1. Първи стъпки в програмирането
+
+    Some **strong** text with random [anchor href=http://google.com]google[/anchor] link
+
+    - List item with **strong** element
+    - List item with [anchor]link[/anchor]
+[/slide]
+[slide]
+    # Глава 1. Първи стъпки в програмирането
+
+    [anchor href=https://www.google.com/search?q=google+markdown&rlz=1C1GCEA_enBG775BG775&oq=google+markdown&aqs=chrome..69i57j0l5.2259j0j7&sourceid=chrome&ie=UTF-8
+    alt="This is some search in google]link[/anchor]
+
+    [image src=https://www.sideshowtoy.com/wp-content/uploads/2018/08/dc-comics-batman-statue-sideshow-prime1-studio-feature-2005181-2.jpg enabled alt="THis is an image of batman" /]
 [/slide]
